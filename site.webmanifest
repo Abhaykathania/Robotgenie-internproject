@@ -1,0 +1,20 @@
+{
+ "name": "Robot Genie",
+ "short_name": "Robot Genie",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#060814",
+ "theme_color": "#060814",
+ "icons": [
+  {
+   "src": "assets/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icon.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

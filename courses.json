@@ -1,0 +1,8 @@
+[
+  { "id": "advanced-digital-marketing", "title": "Advanced Digital Marketing", "duration": "3 Months", "outcome": "Performance Marketing" },
+  { "id": "data-science-data-analytics", "title": "Data Science & Data Analytics", "duration": "6 Months", "outcome": "Data Scientist" },
+  { "id": "finance", "title": "Finance", "duration": "2 Months", "outcome": "Financial Analyst" },
+  { "id": "hr-management", "title": "HR Management", "duration": "2 Months", "outcome": "HR Generalist" },
+  { "id": "ai-tools-automation", "title": "AI Tools & Automation", "duration": "3 Months", "outcome": "AI Specialist" },
+  { "id": "digital-marketing-diploma", "title": "Digital Marketing Diploma", "duration": "9 Months", "outcome": "Digital Marketing Executive" }
+]

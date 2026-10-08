@@ -1,0 +1,14 @@
+{
+  "name": "robot-genie-backend",
+  "version": "1.0.0",
+  "description": "Zero-dependency Node.js backend for the Robot Genie website: enquiry API and static hosting.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
