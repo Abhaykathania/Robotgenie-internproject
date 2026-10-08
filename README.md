@@ -1,3 +1,17 @@
+![image alt](https://github.com/Abhaykathania/Robotgenie-internproject/blob/Web-Development/GitHub_Social_Preview_Full.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Robot Genie website (hosting ready)
 Static multi-page site, no build step: index, about, courses, placements, contact (+ 404).
 ## Before you go live
